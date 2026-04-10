@@ -1,3 +1,6 @@
+#Họ Và Tên: Lý Văn Thủy  MSV: 23810310226
+## Thực hành 10/04/2026 (N2): Nectar App - P1 - Onboard + SignIn/SignUp
+
 <img width="1200" height="2664" alt="image" src="https://github.com/user-attachments/assets/181c7fd4-bf60-410f-9507-151de158e26c" />
 <img width="1200" height="2664" alt="image" src="https://github.com/user-attachments/assets/43264bfe-6e92-46e2-882b-50d9917430f8" />
 <img width="1200" height="2664" alt="image" src="https://github.com/user-attachments/assets/b86c48b4-292b-4630-b415-3ce2baf35f03" />
